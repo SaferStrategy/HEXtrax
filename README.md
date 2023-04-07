@@ -47,7 +47,7 @@ HEXtrax is a web app to track Ethereum wallets transactions for buys, sells, and
 - [ ] Leverage AI-API
 
 ## Directory Structure
-
+```
 HEXtrax/
 |-- Vagrantfile
 |-- README.md
@@ -84,3 +84,4 @@ HEXtrax/
 |   |-- backup.sh
 |-- jenkins/
 |   |-- Jenkinsfile
+```
